@@ -6,5 +6,7 @@ It is required that the client is running the binary version of the LastPass ext
 
 This vulnerability is fixed in Chrome versions >= 4.1.45 and Firefox >= 4.1.44a
 
+This script is to be used for educational purposes only.
+
 [0]: https://bugs.chromium.org/p/project-zero/issues/detail?id=1225&desc=6
 [1]: https://www.lastpass.com/
